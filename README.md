@@ -15,6 +15,6 @@ Push these files to your repository. In **Settings → Pages**, select **Deploy 
 - `index.html`: landing page and original inline bird illustration.
 - `styles.css`: shared app palette, automatic light/dark appearance, rounded typography, responsive layouts, and pressable buttons.
 - `script.js`: accessible wildlife card disclosure; the content remains available without JavaScript.
-- `terms.html` and `privacy.html`: website terms and privacy information.
+- `terms.html` and `privacy.html`: terms and privacy policy for the iOS app and website.
 
-The legal pages cover the informational website, not app data practices. Before using them for an app launch, add the actual operator/contact information and revise them to reflect app accounts, permissions, service providers, retention, deletion, and other real practices. Add a store link to the landing page when one is available.
+The legal pages describe the iOS app (accounts, analytics and crash logs, data stored on our backend) and the website. Keep them in sync with the app's actual data practices and App Store privacy labels. Add a store link to the landing page when one is available.
